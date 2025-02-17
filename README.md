@@ -1,1 +1,1 @@
-This is a new content in the file.
+core-test-automation-framework new
